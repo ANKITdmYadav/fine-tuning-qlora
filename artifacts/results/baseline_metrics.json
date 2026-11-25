@@ -1,0 +1,18 @@
+{
+  "artifact_status": "SIMULATED_DEMO_ONLY_NOT_MEASURED",
+  "model": "Qwen/Qwen2.5-3B-Instruct (illustrative configuration; not executed)",
+  "dataset": "synthetic_demo_fixture",
+  "metrics": {
+    "rouge1": 0.365,
+    "rougeL": 0.251,
+    "answer_similarity": 0.694,
+    "exact_match": 0.08,
+    "evaluation_examples": 8
+  },
+  "runtime": {
+    "training_seconds": null,
+    "inference_latency_ms": null,
+    "gpu_peak_memory_gb": null
+  },
+  "note": "Scores below are fabricated solely to demonstrate report format; they are not measured results."
+}

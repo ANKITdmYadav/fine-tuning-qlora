@@ -1,0 +1,2 @@
+{"id": "demo_0007", "question": "What is an adverse drug reaction?", "answer": "An adverse drug reaction is an unwanted or harmful response associated with the use of a medication.", "context": "", "source": "synthetic_demo_fixture", "is_synthetic": true}
+{"id": "demo_0008", "question": "What is the function of the kidneys?", "answer": "The kidneys filter blood, remove waste products, regulate fluid and electrolyte balance, and help control blood pressure.", "context": "", "source": "synthetic_demo_fixture", "is_synthetic": true}

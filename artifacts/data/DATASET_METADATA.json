@@ -1,0 +1,13 @@
+{
+  "artifact_type": "synthetic demonstration fixture",
+  "status": "NOT_REAL_EXPERIMENT_RESULTS",
+  "created_utc": "2026-11-24T21:34:57Z",
+  "warning": "All records and any associated illustrative metrics/logs are synthetic. Do not cite as model performance, clinical evidence, or completed training.",
+  "dataset_rows": 10,
+  "splits": {
+    "train": 6,
+    "validation": 2,
+    "test": 2,
+    "evaluation_set": 8
+  }
+}

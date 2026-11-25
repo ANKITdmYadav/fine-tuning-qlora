@@ -1,0 +1,4 @@
+method,rouge1,rougeL,answer_similarity,peak_gpu_memory_gb,inference_latency_ms,status
+Baseline,0.365,0.251,0.694,,,SIMULATED_NOT_MEASURED
+LoRA,0.412,0.286,0.731,10.8,172,SIMULATED_NOT_MEASURED
+QLoRA,0.405,0.279,0.724,7.2,178,SIMULATED_NOT_MEASURED

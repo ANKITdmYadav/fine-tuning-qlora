@@ -1,0 +1,658 @@
+
+----------------------------------------PAGE 1 ----------------------------------------
+LEARNING GUIDE
+THYROIDCORELABORATORY.ABBOTT
+----------------------------------------PAGE 2 ----------------------------------------
+ABOUT THIS  
+LEARNING GUIDEINTENDED AUDIENCEThis Learning Guide serves the basic educational needs of health care professionals 
+involved with laboratory medicine, obstetrics, gynecology, and endocrinology.Anyone associated with thyroid function testing will find this monograph of even  
+greater interest.Laboratorians, and those who use laboratory services, will find this guide useful. This 
+includes but is certainly not limited to laboratory technicians and technologists, supervisors 
+and managers, nurses, suppliers, and other physician office and laboratory support 
+personnel.HOW TO USE THIS LEARNING GUIDEThere are five sections that comprise this Learning Guide. Each section contains the topic 
+overview, definition, and key concept review. The Key Concept Review section quickly 
+transitions you into the significant elements of the topic discussion.2  |  Learning Guide: Thyroid
+----------------------------------------PAGE 3 ----------------------------------------
+CONTENTSINTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4SECTION 1
+THE ENDOCRINE SYSTEM AND THE THYROID GLAND. . . . . . . . . . . . . . . 5SECTION 2
+HYPOTHYROIDISM. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12SECTION 3
+HYPERTHYROIDISM. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19SECTION 4
+THYROID FUNCTION IN PREGNANCY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24SECTION 5 
+NODULAR THYROID DISEASE, THYROID CANCER,  
+THYROID EMERGENCIES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   29GLOSSARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38APPENDIX. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41REFERENCES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42ACKNOWLEDGEMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433  |  Learning Guide: Thyroid
+----------------------------------------PAGE 4 ----------------------------------------
+INTRODUCTION
+LEARNING GUIDEThyroid disease is the most prevalent endocrine disorder known. The onset of thyroid 
+disease is often misunderstood by the patient. This is because the clinical manifestations of 
+thyroid dysfunction vary considerably among patients in their characteristics and severity. 
+In addition, the development of the signs and symptoms is often a slow and insidious 
+process. The misdiagnosis of thyroid disease as other conditions often occurs because 
+of the variability and overlap in clinical signs and symptoms. Successful diagnosis and 
+management of thyroid disease require close collaboration between the physician, clinical 
+laboratory, and the patient. The treatment of thyroid disease depends on many factors, 
+including the type and severity of the thyroid disorder and the age and overall health of the 
+patient. Treatment will be specific to each individual.This Learning Guide provides an overview of thyroid gland function and the diseases and 
+treatments associated with thyroid gland dysfunction.4  |  Learning Guide: Thyroid
+----------------------------------------PAGE 5 ----------------------------------------
+SECTION	1
+THE ENDOCRINE  
+SYSTEM AND THE 
+THYROID GL ANDLearning ObjectivesThe Thyroid GlandDefinition and Function  
+of Endocrine SystemLaboratory TestsHypothalamus and Pituitary Gland5  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland5  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 6 ----------------------------------------
+LEARNING  
+OBJECTIVES1   Define and describe the function of the endocrine system.2   Explain the negative feedback mechanism.After completing this section,  
+you should be able to:3   Describe the function of the thyroid gland.4   Identify laboratory tests used in the assessment  
+of thyroid function.DEFINITION, FUNCTION, AND COMPONENTSThe endocrine system is essential for normal growth and development, reproduction, and homeostasis 
+(maintaining a constant internal environment).1KEY CONCEPT REVIEWA REGULATORY SYSTEMThe endocrine system interacts with the nervous system to detect environmental changes and to direct 
+the body’s response to these changes. The endocrine system functions by releasing hormones from certain 
+organs into the bloodstream. These hormones regulate, via stimulation or inhibition, specific body activities. 
+Certain disorders and diseases of the endocrine system, such as diabetes mellitus and thyroid disease, are due 
+to alterations in hormone production and can cause serious health problems.DEFINITION AND FUNCTION OF THE ENDOCRINE SYSTEMThe endocrine system, in conjunction with the nervous system:• Regulates almost all homeostatic and metabolic activitiesHypothalamus• Sets the pace of growth and developmentPituitary• Influences behavior• Controls reproductive functionThyroidCOMPONENTS OF THE ENDOCRINE SYSTEMSome of the components of the endocrine system  
+are glands that form discrete organs:• HypothalamusPancreas• Pituitary glandAdrenal Gland• Thyroid glandKidney• Parathyroid glands• Adrenal glands• Islets of Langerhans (pancreas)Reproductive System 
+(Ovaries in females, 
+Testes in males)• Sex glands or gonads(testes in males, ovaries in females)6  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 7 ----------------------------------------
+DEFINITION AND FUNCTION OF HORMONESHormones are chemical substances secreted by the endocrine glands and carried by the blood to regulate the 
+functions of tissues and organs elsewhere in the body.There are three types of hormones:• Steroids, which are structurally based on cholesterol and include cortisol, aldosterone, androgens (malehormones), estrogens (female hormones), progesterone, and testosterone• Amines, which include thyroid hormones and adrenomedullary hormones• Proteins and peptides, which include, among others, pituitary, parathyroid, and pancreatic hormonesMODES OF ACTIONWhen hormones are released into the bloodstream, they circulate throughout the body and are recognized  
+by target cells in specific organs. When the hormone reaches a target cell, it can bind to receptor sites as  
+one means of action. That combination of hormone and receptor usually triggers a series of activities within 
+the cell.REGULATION MECHANISMSThe endocrine system regulates the amount of hormone produced so that just enough is available to meet the 
+physiological need. Regulation is achieved by a complex process called feedback. In the endocrine system, 
+negative feedback is the major means of regulation. With negative feedback, an increase in the circulating 
+level of a hormone inhibits the further secretion of that hormone (Figure 1-1). Conversely, a drop in the level 
+of the hormone in the blood leads to an increase in the secretion of the hormone. Both of these occur via 
+alterations in the regulatory hormones affecting the primary endocrine organ/gland.HypothalamusTRHPituitaryT3TSHNegative 
+FeedbackT4BloodThyroidT4+T3FIGURE 1-1. Positive and Negative Feedback7  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 8 ----------------------------------------
+THE HYPOTHALAMUS AND PITUITARY GLANDThe hypothalamus controls many functions of the nervous system by its effects on the pituitary gland of the 
+endocrine system.The pituitary gland secretes hormones that regulate many body processes, including growth, reproduction, 
+and a number of metabolic activities.KEY CONCEPT REVIEWTHE HYPOTHALAMUSThe hypothalamus is located at the center of the underside of the brain. The hypothalamus is responsible for 
+regulating:• Food intake• Water balance• Sleep• Wakefulness• Sexual rhythmsIt also plays an important role in the regulation of hormone levels.HORMONE RELEASEUpon stimulation by nerve impulses from the central and autonomic nervous systems, the hypothalamus 
+releases two types of hormones:• Hormones that signal the anterior lobe of the pituitary gland to release or inhibit specific hormones• Hormones that are sent to the posterior lobe of the pituitary gland for storage and subsequent releasePITUITARY GLANDThe pituitary gland is the only endocrine gland that can stimulate other endocrine glands to produce their 
+own particular hormones. It lies at the base of the brain beneath the hypothalamus and consists of two 
+lobes—the anterior lobe and the posterior lobe.TROPIC HORMONESThe anterior lobe produces four tropic hormones. These hormones stimulate their target endocrine gland to 
+produce its hormones.TSHTSH (thyroid-stimulating hormone, or thyrotropin) is the tropic hormone that stimulates the basic activities 
+of the thyroid gland—production and secretion of thyroxine and triiodothyronine and the growth of new 
+thyroid cells. Without TSH, the thyroid gland stops secreting hormones and atrophies.8  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 9 ----------------------------------------
+THE THYROID GLANDThe thyroid gland secretes thyroid hormones, thyroxine (T4) and triiodothyronine (T3), that regulate 
+metabolism, oxygen consumption of cells, cholesterol levels, and growth and development in children.THYROID GLAND LOCATION AND STRUCTUREThe thyroid gland, located just below the larynx in the neck, consists of two lateral lobes, one on each side 
+of the trachea, connected by a thin isthmus (Figure 1-2). When the body requires thyroid hormones, the 
+pituitary secretes TSH, which stimulates the thyroid to convert thyroglobulin into the active hormone form.FIGURE 1-2. The ThyroidTHYROID HORMONEST4 and T3 hormones stimulate metabolic activity and increase oxygen consumption, heat production, heart 
+rate, gastrointestinal movement, and brain activity. They also influence the growth and development of the 
+musculoskeletal and nervous systems.The amount of T4 and T3 hormones in the blood is regulated by negative feedback as follows: When T4 and 
+T3 levels are low, the hypothalamus releases TRH, which stimulates the secretion of TSH in the pituitary. 
+TSH causes T4 and T3 to be released from the thyroid.Rising thyroid hormone levels in the blood then inhibit the action of TRH, so the pituitary gland decreases 
+TSH secretion, and the thyroid gland slows hormone secretion.CALCITONINCalcitonin is produced by the parafollicular cells in the thyroid gland. This hormone plays a role in calcium 
+and phosphate metabolism (regulation of bone metabolism).9  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 10 ----------------------------------------
+LABORATORY TESTSBlood tests to measure thyroid function are based on the feedback relationship between the hypothalamus, 
+pituitary, and thyroid (also called the “HPT axis”).Thyroid-stimulating hormone (TSH) measurement is the single most reliable test for evaluating 
+thyroid function or symptoms of hypo- or hyperthyroidism in people with a functioning HPT axis. TSH 
+measurement is also used to monitor the treatment of thyroid disorders.Thyroxine (T4) may be measured as either the total or free hormone. It is most often used to help diagnose 
+and determine the severity of hyper- or hypothyroidism and to monitor treatment of these conditions. It is  
+often ordered in conjunction with TSH or as a follow-up test after an abnormal TSH result. Most T4  
+(99.98 percent) circulates bound to protein. Only the non-protein bound (“free”) T4 is biologically active. 
+Usually, the measurement of free hormone is a more relevant but more variable indicator of thyroid function.Triiodothyronine (T3) may be measured as either the total or free hormone. It is most often used to help 
+diagnose hyperthyroidism and is usually ordered as a follow-up test to an abnormal TSH and T4 (free 
+or total). Most T3 (99.7 percent) circulates bound to protein. Only the non-protein bound (“free”) T3 
+is biologically active. Usually, the measurement of free hormone is a more relevant indicator of thyroid 
+function.Anti-thyroperoxidase antibodies (anti-TPO or TPOAb) are most often measured to help diagnose and 
+monitor autoimmune thyroid disease. TPOAb is also measured as a risk factor for a variety of conditions, 
+including autoimmune thyroid disease, thyroid dysfunction during pregnancy, and postpartum thyroid 
+disease.Thyroglobulin (Tg) is most often measured as a tumor marker in the diagnosis, treatment, and management 
+of thyroid cancer. Because autoantibodies against Tg (TgAb, anti-Tg) can interfere with Tg measurements, 
+TgAb should be tested along with Tg. Anti-thyroglobulin antibodies, TgAb, may also be measured to diagnose 
+and monitor autoimmune thyroid disease.TSH receptor antibodies (TRAb) are usually measured to investigate the etiology (i.e., origin) of 
+hyperthyroidism and to monitor treatment of the disease. These can be stimulating or inhibiting types of 
+antibodies.T-Uptake tests have been used for many years to estimate protein binding of thyroid hormones, particularly 
+before the development of “free” hormone tests. Uptake tests measure thyroid hormone binding capacity of 
+serum and, along with measurement of total T4, allow calculation of the “free thyroxine index” (FTI).It should be noted that abnormalities in hypothalamic and/or pituitary function may result in diagnostically 
+misleading thyroid results. Also, evaluation of thyroid function in hospitalized patients can be complicated 
+by other illnesses and medications. In these cases, interpretation of thyroid function tests is best done by an 
+endocrinologist.OTHER TESTSPhysicians also use a variety of other tests to assess thyroid function. These include radioactive iodine (RAI) 
+uptake, thyroid scan, thyroid ultrasound, and fine needle aspiration (FNA) biopsy.10  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 11 ----------------------------------------
+QUIZ QUESTIONSTHE ENDOCRINE SYSTEM AND THE THYROID GLAND1.	 Name four key components of the endocrine system:2.	 Match the term with the correct definition:A  TSH
+1  Most often used to help diagnose hypothyroidism or hyperthyroidism, ordered as a follow-up  
+to abnormal TSH resultB  T3
+2  Often measured in connection with thyroglobulin testing and may be measured to diagnose  
+autoimmune thyroid diseaseC  T4
+3  Often measured as a tumor marker in the diagnosis, treatment, and management of thyroid cancerD  Tg
+4  Most often used to help diagnose hyperthyroidism, ordered as a follow-up to abnormal TSH and T4 resultsE  TgAb
+5  Most reliable test for evaluating symptoms of hypo- or hyperthyroidism3.	 Match the word with the correct definitionA  Hypothalamus
+1  Stimulates other endocrine glands to produce their own hormonesB  Pituitary Gland
+2  Converts thyroglobulin into active hormone when stimulated by TSHC  Thyroid Gland
+3  Regulates food intake, water balance, and sleep11  |  Learning Guide: Thyroid: The Endocrine System and the Thyroid Gland
+----------------------------------------PAGE 12 ----------------------------------------
+SECTION	2
+HYPOTHYROIDISMOVERVIEWHypothyroidism is a condition in which the body lacks sufficient thyroid hormone. 
+For various reasons, the thyroid gland may fail to produce healthy levels of these 
+hormones. This can manifest as fatigue, heart problems, difficulty concentrating, 
+or increased intolerance to cold.212  |  Learning Guide: Thyroid: Hypothyroidism12  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 13 ----------------------------------------
+LEARNING  
+OBJECTIVES1   Prevalence of hypothyroidism2   Symptoms of hypothyroidismAfter completing this section,  
+you should be able to describe  
+the following:3   Various causes of hypothyroidism4   Laboratory tests and other approaches  
+for diagnosing hypothyroidism5   Options available for treating patients with hypothyroidismPREVALENCEInvestigators who have measured the rate of hypothyroidism in different populations around the world 
+have found a range of rates4 depending on the location, the definition of hypothyroidism, local diet, and 
+the characteristics of the population studied.5 However, a review of 12 studies found that thyroid gland 
+failure occurs in about 5 percent of the general population. Most studies report higher prevalence rates of 
+hypothyroidism in women6 and those of increasing age,
+2 with rates as high as 24 percent in women older  
+than 60 years.2SYMPTOMSSymptoms can vary from patient to patient; however, the most common symptoms and signs of 
+hypothyroidism (in descending order of frequency) include the following:2,7SYMPTOMSSIGNS• Tiredness, weakness• Cool peripheral extremities• Dry skin• Puffy face, hands, and feet (myxedema)• Feeling cold or cold intolerance• Bradycardia (slow heart rate)• Hair loss• Peripheral edema• Difficulty concentrating and poor memory• Delayed tendon reflex relaxation• Constipation• Carpal tunnel syndrome• Weight gain with poor appetite• Serious cavity effusions• Dyspnea (shortness of breath)• Hyperlipidemia (problems with lipid levels,such as excess low-density lipoprotein [LDL] 
+cholesterol)• Hoarseness• Menorrhagia (later oligomenorrheaor amenorrhea)• Paresthesia• Depression13  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 14 ----------------------------------------
+The onset of hypothyroidism symptoms is often undetected. In fact, patients may only become aware of 
+symptoms after they have restored normal thyroid hormone levels following treatment.1 Some patients with 
+hypothyroidism present with a goiter – an enlarged thyroid gland – rather than the symptoms described 
+previously. The goiter may not be large but is usually irregular and firm in consistency.For patients with hypothyroidism, nail growth is often retarded, and hair is dry and brittle and falls out easily. 
+Other common features associated with hypothyroidism include constipation and weight gain (despite a 
+poor appetite). Libido is decreased in both sexes, fertility is reduced, and the incidence of miscarriages is 
+increased.Hypothyroidism has also been shown to have effects on the cardiovascular system. Myocardial contractility 
+and pulse rate are reduced, leading to reduced stroke volume and bradycardia (reduced heart rate). Increased 
+peripheral resistance may be accompanied by hypertension (high blood pressure). Blood flow is diverted 
+from the skin, which results in cooler extremities.A hoarse voice that occurs in some patients with hypothyroidism reflects the effects of fluid accumulation in 
+the vocal cords due to hypothyroidism. Also, puffiness in the face and other parts of the body, a sign of edema, 
+can be a sign of untreated hypothyroidism.CAUSESCommon causes of hypothyroidism include the following:• Autoimmune hypothyroidism. Autoimmune hypothyroidism occurs when a person’s immune systemrecognizes thyroid gland tissues as foreign and mounts an attack on them.3 This condition may be 
+associated with a goiter (Hashimoto’s or goitrous thyroiditis) or minimal residual thyroid tissue (atrophic 
+thyroiditis). It is more common in women (4 per thousand of the population) than in men (1 per thousand, 
+Figure 2-1).2 Because the autoimmune process gradually reduces thyroid function, there is often a phase 
+of compensation when normal thyroid hormone levels are maintained by a rise in thyroid-stimulating 
+hormone (TSH). This phase is called subclinical or mild hypothyroidism. Subclinical hypothyroidism 
+is found in 6 to 8 percent of women (10 percent of whom are over the age of 60) and 3 percent of men.2 
+In these patients, free T4 levels often fall, and TSH levels increase over time, leading to clinical or overt 
+hypothyroidism.RATE OF AUTOIMMUNE HYPOTHYROIDISM BY GENDER43Rate per 1,000210Women
+MenFIGURE 2-2. Autoimmune hypothyroidism: women versus men.14  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 15 ----------------------------------------
+• Surgical removal of part or all of the thyroid gland (thyroidectomy).2 The thyroid gland may be 
+surgically removed for thyroid cancer or benign nodular disease-causing symptoms. Once the thyroid 
+gland is removed, the body no longer has tissues capable of producing thyroid hormone. This results in 
+hypothyroidism because of the complete reduction in thyroid hormone production (if the entire thyroid 
+gland is removed) or substantial reduction in hormone (if part of the thyroid is removed).• Radiation treatment. Some patients receive treatment with radioactive iodine (131I), which is used to 
+destroy thyroid tissue (for example, as treatment for someone with hyperthyroidism3). The desired 
+destruction of thyroid tissue results in a new problem—a lack of healthy thyroid tissue to produce normal 
+levels of thyroid hormone. Another type of radiation that can damage the thyroid is radiation therapy for 
+cancers of the head, neck, or chest. Such treatments can reduce or eliminate normal thyroid function.• Congenital hypothyroidism. Hypothyroidism occurs in about 1 in 4,000 newborns. This condition maybe transient, especially if the mother has TSH-receptor-blocking antibodies or has received antithyroid 
+drugs; however, permanent hypothyroidism occurs in the majority of infants with hypothyroidism. 
+Neonatal hypothyroidism is caused by thyroid gland dysgenesis (problems with organ development) in 
+80 to 85 percent of cases. Inborn errors in thyroid hormone synthesis occur in 10 to 15 percent of cases 
+and are TSH receptor antibody-mediated in 5 percent of affected newborns (Figure 2-2).2 Most babies 
+with congenital hypothyroidism appear normal at birth, yet permanent neurological damage can result 
+if the condition is not identified and treated.2 Developed countries have neonatal screening programs to 
+detect babies with this condition to prevent the severe neurological consequences of untreated congenital 
+hypothyroidism.CAUSES OF CONGENITAL HYPOTHYROIDISMThyroid gland dysgenesisInborn errors in thyroid hormone synthesisTSH receptor antibody-mediatedFIGURE 2-2. Causes of congenital hypothyroidism.• Thyroiditis. This is an inflammation of the thyroid gland, usually associated with an autoimmunecondition or an infection, such as a viral, bacterial, or fungal infection.2,3• Medications. Hypothyroidism has been associated with the use of several drugs, including amiodarone(a medication used for irregular or rapid heartbeat), interferon alpha, interleukin-2, and lithium.15  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 16 ----------------------------------------
+• Iodine deficiency or excess. Iodine deficiency is a common cause of hypothyroidism in developingcountries.2 This can cause endemic goiter and cretinism (a condition of severely stunted physical and 
+mental growth due to untreated congenital deficiency of thyroid hormone) in communities that do 
+not consume adequate levels of iodine in the diet. This has become increasingly less frequent in the 
+developed world following public health measures that increase iodine intake (such as the addition of 
+iodized salt.) Paradoxically, chronic excess iodine can also induce hypothyroidism and is responsible for 
+hypothyroidism in up to 13 percent of patients treated with amiodarone.2• Damage to the pituitary gland. Because the pituitary gland (in the brain) directs the production ofthyroid hormone by the thyroid gland via TSH, damage to the pituitary gland by a tumor, radiation, 
+surgery or trauma can also interfere with the normal function of the thyroid gland.DIAGNOSIS/TESTINGAn important part of managing a patient with hypothyroidism is diagnosis and testing. Hypothyroidism is 
+diagnosed through a combination of physical examination and laboratory evaluation. A physical evaluation 
+is an important part of the diagnosis of hypothyroidism. The physical evaluation consists of an examination 
+of the shape, size, and feel of the thyroid itself and an assessment of signs of abnormal thyroid function. 
+According to the American Association of Clinical Endocrinologists, appropriate laboratory evaluation is 
+critical to establish the diagnosis and cause of hypothyroidism.7• Thyroid-stimulating hormone (TSH). In most cases, a normal level of TSH (also called thyrotropin)excludes a primary abnormality in thyroid function. A normal TSH level for adults is between 0.4 and  
+4.0 μIU/mL,
+8 according to the National Academy of Clinical Biochemistry (NACB) guidelines, although 
+the American Association of Clinical Endocrinologists (AACE) encourages clinicians to consider 
+treatment for patients who test outside the boundaries of a narrower margin, based on a TSH level target 
+of 0.3 to 3.04 μIU/mL. A TSH measurement significantly above the normal level is considered evidence 
+of hypothyroidism, as the pituitary releases more TSH in an attempt to raise thyroid hormone in the 
+bloodstream to normal levels. The finding of an elevated TSH level may be followed by measurements of 
+circulating thyroid hormone to confirm and determine the security of a diagnosis of hypothyroidism.• Free T3 (FT3) and Free T4 (FT4). T3 and T4 circulate in the blood as either free or protein-boundhormones. Only a very small amount of the T3 (0.2 to 0.4 percent ) and T4 (0.03 percent) in circulation 
+are unbound (or free) hormones. However, it is important to measure the levels of free hormones because 
+they are physiologically active. Assays have been designed that are specific for FT3 and FT4. Clinical or 
+overt hypothyroidism causes decreased thyroid hormone levels, so patients with this disorder are likely 
+to have values below the reference ranges.8• Total T3 (TT3) and Total T4 (TT4). These tests measure the total levels of these two thyroid hormonesin the serum. However, T3 and T4 are both highly protein-bound, and several factors—including illness, 
+medications, and genetics—can have an impact on protein binding. Because of this, it is useful to measure 
+the free or unbound levels of the hormone, which more closely indicate the level of biologically available 
+hormone.16  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 17 ----------------------------------------
+• Anti-TPO and anti-Tg antibodies. Most patients with autoimmune thyroid disease have antibodies forthyroid peroxidase (TPO) and/or thyroglobulin (Tg). It is acceptable for clinicians to measure only anti-
+TPO antibodies because most patients with anti-TPO antibodies will also have antibodies to Tg, although 
+the reverse is less common.2,3 Also, the role of anti-Tg antibodies in thyroid disease is still unclear.
+8 
+The anti-TPO antibody test is considered the most sensitive test for detecting autoimmune thyroid 
+disease; anti-TPO antibodies are typically the first abnormality to appear in the course of developing 
+hypothyroidism secondary to Hashimoto’s thyroiditis. When anti-TPO antibodies are measured by a 
+sensitive immunoassay, >95 percent of patients with Hashimoto’s thyroiditis have detectable levels of 
+anti-TPO antibodies.8• T-uptake. This test reflects the level of thyroxine-binding globulin (TBG) that is bound by T4.9TREATMENT OF HYPOTHYROIDISMAfter describing the causes and diagnosis of hypothyroidism, the final topic we will discuss is the treatment 
+of patients with hypothyroidism. While hypothyroidism cannot be cured, it can be managed. The goal 
+of the treatment of patients with hypothyroidism is to restore thyroid hormone levels to normal levels. 
+This is accomplished by providing levothyroxine (LT4).3 In patients with no thyroid function, the average 
+replacement dose of levothyroxine is 1.6 μg/kg body weight/day (typically, 100 to 150 μg). In patients with 
+some thyroid function, lower replacement doses may be sufficient to manage the condition.Doses of LT4 are adjusted on the basis of the patient’s TSH levels. The goal is to achieve normal TSH levels, 
+ideally in the lower half of the reference range. The clinical effects of LT4 replacement are gradual, and full 
+relief from symptoms may not occur until 3 to 6 months after normal TSH levels are restored. A TSH level 
+between 0.5 and 2.0 μIU/mL is generally considered the therapeutic target for a standard LT4 replacement 
+dose for hypothyroidism.8 Once full replacement is achieved and TSH levels are stable, patients should 
+receive follow-up TSH measurements at least annually. It is important for patients to maintain ongoing 
+adherence to therapy.17  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 18 ----------------------------------------
+QUIZ QUESTIONSHYPOTHYROIDISM1.	 Name four symptoms of hypothyroidism:2.	 Fill in the blanks for each test:A  A TSH measurement 
+ the normal level indicates possible hypothyroidism.B  When measuring FT3/FT4, patients with hypothyroidism are likely to have values 
+  
+reference ranges.C  T3 and T4 circulate in the blood as either 
+ or protein-bound hormones.3.	 True or False:A  Hypothyroidism is a condition in which the body has excess levels of thyroid hormones.B  The most common cause of congenital hypothyroidism is thyroid gland dysgenesis.C  When evaluating hypothyroidism, it is important to measure the levels of free hormones versusprotein-bound hormones.D  A common symptom of hypothyroidism is heat intolerance.18  |  Learning Guide: Thyroid: Hypothyroidism
+----------------------------------------PAGE 19 ----------------------------------------
+SECTION	3
+HYPERTHYROIDISMOVERVIEWAn excess level of thyroid hormones is called thyrotoxicosis. The major causes of 
+thyrotoxicosis include thyroiditis and hyperthyroidism caused by Graves’ disease, 
+toxic multinodular goiter, and toxic adenomas. In hyperthyroidism, the thyroid 
+gland produces excess levels of thyroid hormone.19  |  Learning Guide: Thyroid: Hyperthyroidism19  |  Learning Guide: Thyroid: Hyperthyroidism
+----------------------------------------PAGE 20 ----------------------------------------
+LEARNING  
+OBJECTIVES1   Symptoms of hyperthyroidism2   Causes of hyperthyroidismAfter completing this section,  
+you should be able to describe  
+the following:3   Prevalence of hyperthyroidism4   Laboratory tests and other approaches  
+for diagnosing hyperthyroidism5   Treatment options for patients with hyperthyroidismSYMPTOMSThe signs and symptoms (in descending order of frequency) are shown below.2SYMPTOMSSIGNS• Hyperactivity, irritability, dysphoria• Tachycardia (rapid heartbeat); atrial fibrillationin the elderly• Heat intolerance and sweating• Tremor• Palpitations• Goiter• Fatigue and weakness• Warm, moist skin• Weight loss with increased appetite• Muscle weakness, proximal myopathy• Hyperdefecation• Lid retraction or lag• Polyuria (frequent urination)• Gynecomastia (breast enlargement in males)• Oligomenorrhea, loss of libidoMany of the signs and symptoms of hyperthyroidism stem from the excessive production of heat and 
+increased motor and sympathetic nervous system activity associated with this disorder.3CAUSES AND PREVALENCELet’s review the causes and prevalence of hyperthyroidism.• In 80 percent of people with hyperthyroidism (Figure 3-1),2 the cause of the disorder is Graves’ disease. 
+Graves’ disease is much more common in women than in men. Graves’ disease is an autoimmune disorder 
+caused by thyroid-stimulating immunoglobulin (TSI)—antibodies that bind to thyroid-stimulating 
+hormone (TSH) receptors on the thyroid gland and stimulate the thyroid to produce excess levels of 
+thyroid hormones.320  |  Learning Guide: Thyroid: Hyperthyroidism
+----------------------------------------PAGE 21 ----------------------------------------
+• Although much less frequent, another cause of hyperthyroidism is toxic adenoma (2 percent) or toxicmultinodular goiter (15 percent). In these conditions, one or more nodules in the thyroid grow and 
+increase their activity to the point where they release excess levels of thyroid hormone.3• Other causes: in some cases, thyrotoxicosis is caused by thyroiditis (1 percent), a condition in which thethyroid gland leaks thyroid hormone as the result of a viral infection, injury, or other cause. Also, some 
+individuals may develop thyrotoxicosis if they consume excess levels of thyroid hormone.CAUSES OF HYPERTHYROIDISM/THYROTOXICOSIS2%
+1%
+2%15%Graves’ disease (80%)Toxic multinodular goiter (15%)Toxic adenoma (2%)80%Thyroiditis (1%)Other (2%)FIGURE 3-1. Causes of hyperthyroidism.DIAGNOSIS/TESTINGA diagnosis of hyperthyroidism is confirmed by measurement of TSH, then thyroid hormones T4 and T3 
+(Figure 3-2).• Thyroid-stimulating hormone (TSH). In most cases, a normal TSH level excludes a primary8 according 
+to the NACB guidelines, although the American Association of Clinical Endocrinologists (AACE) 
+encourages clinicians to consider treatment for patients who test outside the boundaries of a narrower 
+margin, based on a TSH level target of 0.3 to 3.04 μIU/mL. In patients with hyperthyroidism, the TSH 
+level is generally low or undetectable, while total and free T4 levels are elevated. If TSH levels suggest 
+an overactive thyroid gland, the patient may receive a thyroid scan to determine if the entire gland is 
+overactive or whether the patient has a toxic nodular goiter or thyroiditis.abnormality in thyroid function. A normal TSH level for adults is between 0.4 and 4.0 μIU/mL• Free T3 (FT3) and Free T4 (FT4). Measuring the free hormone can be utilized to assist in the diagnosisof hyperthyroidism. In patients with Graves’ disease, FT3 is typically elevated to a greater degree than 
+FT4. In contrast, levels of FT4 are elevated to a greater degree than FT3 in patients who have taken 
+excessive levels of thyroid hormone.• Total T3 (TT3) and Total T4 (TT4). Measurements above the normal reference range of these hormonessuggest thyrotoxicosis. Total T3 measurements may be valuable when hyperthyroidism is suspected, and 
+the free T4 estimate is normal (see below).21  |  Learning Guide: Thyroid: Hyperthyroidism
+----------------------------------------PAGE 22 ----------------------------------------
+FIGURE 3-2. T4 (left) and T3 (right) molecules.• T-uptake. This test reflects the level of thyroxine-binding globulin (TBG) that is bound by T4. Reference9 Uptake assays are of greatest value 
+when used in conjunction with a serum total T4 assay to provide the free thyroid index (FTI).values are 27 to 37 percent for males, 20 to 37 percent for females.A physical examination is also important for the diagnosis of hyperthyroidism. A physical examination of a 
+patient with hyperthyroidism often will show an enlarged thyroid gland and a rapid pulse. There may also 
+be moist, smooth skin and many of the other symptoms listed above. Some patients with Graves’ disease 
+experience lid retraction, which may present as a startled appearance.2TREATMENTThe hyperthyroidism of Graves’ disease is treated by reducing thyroid hormone synthesis in the thyroid 
+gland. This can be accomplished by using antithyroid drugs or by reducing the amount of functioning thyroid 
+tissue with radioiodine (131I) treatment or by thyroidectomy (all or partial removal of the thyroid gland with 
+surgery).• The main antithyroid drugs are thionamides (e.g., propylthiouracil, carbimazole, and methimazole).These drugs inhibit the oxidation and organification of iodine. They also reduce thyroid antibody levels 
+by mechanisms that remain unclear.2• Radioiodine is also used for treatment because it causes progressive destruction of thyroid cells.Thyroid cells need iodine to make thyroid hormones, so they take up radioiodine from the bloodstream. 
+The radioactive iodine used in the treatment of hyperthyroidism is taken by mouth.3 Over time, the 
+radioiodine damages the cells that absorbed it, causing them to shrink and produce less thyroid hormone. 
+Radioiodine can be used as initial treatment or for relapse after a trial of antithyroid drugs. Many patients 
+treated with radioiodine become hypothyroid and are treated with thyroid hormone supplementation.• Thyroidectomy (surgery to remove all or part of the thyroid) is another option for the treatment ofhyperthyroidism, especially for patients who relapse with antithyroid drugs and who do not wish to 
+receive radioiodine. After the thyroid gland tissue is removed, the patient is likely to have low levels of 
+thyroid hormone and require treatment with thyroid hormone supplementation.22  |  Learning Guide: Thyroid: Hyperthyroidism
+----------------------------------------PAGE 23 ----------------------------------------
+QUIZ QUESTIONSHYPERTHYROIDISM1.	 Name four signs of hyperthyroidism:2.	 Fill in the blanks for each test:A  In patients with hyperthyroidism, TSH level is generally 
+.B  In patients with hyperthyroidism, FT4 is typically 
+ normal levels.C  A 
+ TSH level for adults is between 0.4 and 4.0 μIU/mL.3.	 True or False:A  Thyrotoxicosis is the excess level of thyroid hormones.B  The most common cause of hyperthyroidism is toxic multinodular goiter.C  A common symptom of hyperthyroidism is hyperactivity.23  |  Learning Guide: Thyroid: Hyperthyroidism
+----------------------------------------PAGE 24 ----------------------------------------
+SECTION	4
+THYROID FUNCTION  
+IN PREGNANCYOVERVIEWIn this section, we will discuss the importance of accurate assessment of thyroid 
+function during pregnancy to prevent both maternal and fetal complications. 
+The normal physiological changes that occur during pregnancy can make 
+interpretation of tests for thyroid disease challenging. Therefore, laboratory 
+measurement of thyroid function plays an important role in the assessment of 
+maternal thyroid health.24  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy24  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy
+----------------------------------------PAGE 25 ----------------------------------------
+LEARNING  
+OBJECTIVES1   Maternal thyroid function and fetal development2   Pregnancy and thyroid functionAfter completing this section,  
+you should be able to describe  
+the following:3   Maternal hypothyroidism and hyperthyroidism4   The diagnosis of thyroid dysfunction in pregnancy5   Treatment of thyroid disease during pregnancyMATERNAL THYROID FUNCTION AND FETAL DEVELOPMENTA healthy thyroid is important for both mother and fetus. This is especially true during the first trimester 
+when the developing fetus depends entirely on the mother for thyroid hormones;10 therefore, maternal 
+thyroxine, T4 (Figure 4-1) is critical for proper fetal development. Adequate maternal iodine intake is also 
+required during pregnancy to ensure that the maternal thyroid gland will produce adequate levels of thyroid 
+hormones for both mother and fetus. Accurate assessment of thyroid function during pregnancy is important 
+to prevent both maternal and fetal complications. However, the normal physiological changes that occur 
+during pregnancy can make interpretation of tests for thyroid disease challenging.11PREGNANCY AND THYROID FUNCTIONEven in a normal pregnancy, the pregnancy itself produces profound physiologic changes that can have an 
+impact on maternal thyroid function. The main factors that affect thyroid function in pregnancy are:• A transient increase in human chorionic gonadotropin, hCG (Figure 4-2),2 a hormone produced primarily 
+by syncytiotrophoblastic cells of the placenta during the first trimester,20 which stimulates the thyroid-
+stimulating hormone receptor (TSH-R). The rise in circulating hCG levels during the first trimester 
+of pregnancy is accompanied by a reciprocal decline in TSH levels, which persists into the middle of 
+pregnancy.FIGURE 4-1. A T4 molecule.
+FIGURE 4-2. Human chorionic gonadotropin (hCG).25  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy
+----------------------------------------PAGE 26 ----------------------------------------
+• The estrogen-induced rise in thyroid-binding globulin (TBG—a protein that transports the majority ofthyroid hormones [68 percent of T4 and 80 percent of T3]) during the first trimester, which is sustained 
+during pregnancy.11 Also, TBG increases its half-life during pregnancy from 15 minutes to 3 days.
+11• Alterations in the immune system, which can lead to the onset, exacerbation or amelioration of anunderlying autoimmune thyroid disease.• Increased urinary iodine excretion, which can cause impaired thyroid hormone production in peoplewho live in areas of marginal iodine sufficiency.MATERNAL HYPOTHYROIDISMMaternal hypothyroidism is a condition that occurs in 0.3 to 0.7 percent of pregnant women.11 This incidence 
+is less than that of the general population due to the association between hypothyroidism and decreased 
+fertility. Maternal hypothyroidism is an important issue because it is associated with an increased risk of 
+developmental delay in the offspring.2 In many cases, an accurate laboratory assessment of maternal thyroid 
+function is needed to distinguish thyroid disorders from the symptoms attributed to the pregnancy itself.10,12MATERNAL HYPERTHYROIDISMThe incidence of hyperthyroidism in pregnant women has been estimated to be 0.2 percent.11 Most of these 
+women will have symptoms before the pregnancy, but some will show symptoms only after they become 
+pregnant. As with nonpregnant women, the most common cause of hyperthyroidism in pregnant women 
+is Graves’ disease, which accounts for 85 to 90 percent of all cases. The hCG-induced changes in thyroid 
+function can also result in transient gestational hyperthyroidism and/or hyperemesis gravidarum, a condition 
+characterized by severe nausea and vomiting and risk of volume depletion. Diagnosis and treatment of 
+hyperthyroidism during pregnancy is important because untreated hyperthyroidism can lead to adverse 
+obstetrical outcomes, including first-trimester spontaneous abortions, high rates of stillbirths and neonatal 
+deaths, and an increased rate of low birth weight infants, preterm delivery, fetal or neonatal hyperthyroidism, 
+and intrauterine growth retardation.11 As with hypothyroidism, diagnosis of hyperthyroidism is complicated 
+by the fact that healthy pregnant women exhibit some of the same symptoms as those with hyperthyroidism. 
+Because of this, diagnosis of hyperthyroidism during pregnancy needs to be made based on laboratory testing 
+and careful clinical observations.11DIAGNOSIS OF THYROID DYSFUNCTION IN PREGNANCYThe Endocrine Society has developed guidelines for screening pregnant women for thyroid dysfunction. 
+They recommend case-finding among women at high risk of thyroid dysfunction, including women with 
+a history of thyroid disease, type 1 diabetes, a prior history of miscarriage or preterm delivery symptoms 
+of thyroid dysfunction, goiter, or thyroid antibodies.13 However, relying solely on case-finding may result 
+in clinicians missing a significant number of women with thyroid dysfunction. In a study by Vaidya et al., 
+investigators found that only testing high-risk pregnant women would result in failure to identify about one-
+third of the women with hypothyroidism.14 Therefore, evaluation and testing of all pregnant women should 
+be considered.Laboratory measurement of thyroid function plays an important role in the assessment of maternal thyroid 
+health.10 Pregnant women can have their thyroid function assessed in the same ways as nonpregnant women. 
+The major tests for thyroid function are the following:26  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy
+----------------------------------------PAGE 27 ----------------------------------------
+• Thyroid-stimulating hormone (TSH). A finding of a normal TSH level generally excludes a primaryabnormality in thyroid function. However, TSH levels generally decrease in pregnancy during the first 
+trimester (due to the influence of increased hCG). In most pregnancies, this decrease in TSH remains 
+within the healthy reference interval.11 If hCG levels are markedly increased, then hCG-induced thyroid 
+stimulation can occur, decreasing TSH levels and increasing thyroid hormone concentrations.HypothalamusPituitaryT3TSHT4ThyroidT4+T3FIGURE 4-3. The thyroid gland’s production of thyroid hormones is triggered by thyroid-stimulating hormone (TSH), which is made by the pituitary gland.• Total T3 (TT3) and Total T4 (TT4). These tests measure the total levels of these two thyroid hormonesin the blood (serum). However, TT4 and TT3 are often increased during pregnancy and may be outside 
+the healthy reference range.11• Free T3 (FT3) and Free T4 (FT4). The effect of pregnancy on FT4 and FT3 levels remains controversial.Pregnant women, on average, have lower free hormone concentrations at term than nonpregnant women. 
+It is recommended that due to the variation in results of FT4 assays, method-specific and trimester-
+specific ranges of serum FT4 should be established.18• Anti-Tg and anti-TPO antibodies. It has been found that the presence of antibodies to TPO is associatedwith an increased risk of miscarriage, preterm birth, and maternal postpartum thyroid disease.10 
+Women with a TSH level >3.0 μIU/mL are more likely to be TPO-antibody positive.10 The prevalence of 
+TPO antibodies is higher in women and increases with age, and common in women of child-bearing age. 
+Most patients with autoimmune thyroid disease have antibodies for thyroglobulin (Tg) and/or thyroid 
+peroxidase (TPO). It is acceptable to measure only TPO antibodies because most patients with TPO 
+antibodies will also have antibodies to Tg, although the reverse is less common.2,12 If a pregnant woman is 
+negative for these antibodies, then she does not have autoimmune thyroid disease.TREATMENTAdequate iodine levels should be consumed by women during pregnancy. Appropriate treatment with 
+levothyroxine for hypothyroidism has been shown to reduce miscarriages and other consequences of 
+untreated thyroid disease in pregnant women when given during the early stages of pregnancy.1527  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy
+----------------------------------------PAGE 28 ----------------------------------------
+QUIZ QUESTIONSTHYROID FUNCTION IN PREGNANCY1.	 Name the four main factors that affect thyroid function in pregnancy:2.	 Fill in the blanks for each test:A  TSH levels generally 
+ during the first trimester of pregnancy.B  TT3 and TT4 levels generally 
+ during pregnancy.C  Maternal hypothyroidism is a condition that occurs in 
+ to 
+ of pregnant women.28  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy
+----------------------------------------PAGE 29 ----------------------------------------
+SECTION	5
+NODUL AR THYROID  
+DISEASE, THYROID  
+CANCER, THYROID 
+EMERGENCIESOVERVIEWIn this section, we will discuss further conditions affecting the endocrine system. 
+Thyroid nodules are characterized by the disorderly growth of thyroid cells, 
+occurring in 25 percent of adults. Thyroid cancer is the most common type of 
+cancer of the endocrine system. Thyroid storm is a rare but life-threatening rise in 
+thyroid hormones.29  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies29  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 30 ----------------------------------------
+LEARNING  
+OBJECTIVES1   Thyroid nodules, which occur in 25% of adults2   Thyroid cancer, the most common type of cancer  
+of the endocrine systemAfter completing this section, 
+you should be able to discuss the 
+symptoms, causes, diagnosis, 
+and treatment of the following:3   Thyroid storm, also called thyrotoxic crisis, is a rare 
+but life-threatening rise in thyroid hormonesNODULAR THYROID DISEASEThis is a common condition, occurring in up 
+to 25 percent of adults. Thyroid nodules may 
+be solitary or multiple, and functional  
+or nonfunctional.FIGURE 5-1. A thyroid gland showing a thyroid nodule.SYMPTOMSThe following is a list of common signs and symptoms of nodular thyroid disease:SYMPTOMSSIGNS• Lump or nodule in the thyroid• Goiter• Hoarseness• Palpable growth/nodule• Pain in the neck, jaw, or ear• Difficulty swallowing• Shortness of breath• Dysphonia (change of voice tone)This condition is characterized by the disorderly growth of thyroid cells, often combined with the gradual 
+development of fibrosis (the development of excess fibrous tissue2). The majority of thyroid nodules are 
+harmless—they do not cause any symptoms. Thyroid nodules may be discovered when a patient notices a 
+lump in the neck while looking in a mirror or during a routine physical examination. Some patients with 
+thyroid nodules complain of neck, jaw, or ear pain, while others may experience some difficulty swallowing. 
+Thyroid nodules become a problem because sometimes nodules produce thyroid hormone beyond the needs 
+of the individual, resulting in hyperthyroidism.30  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 31 ----------------------------------------
+CAUSESIn general, it is not known what causes normal thyroid tissue to develop into nodules. However, the 
+prevalence of thyroid nodules increases with age, with about 50 percent of people having some sort of 
+thyroid nodules by the time they reach 60 years of age.3DIAGNOSISAlthough some patients may feel or see a thyroid nodule in the mirror, most nodules are discovered by 
+physicians during a routine medical examination.3 The physician may ask the patient to swallow while 
+he or she examines the thyroid because a nodule in the thyroid gland will often move up or down during 
+swallowing. Some nodules are discovered incidentally during other radiologic studies, such as ultrasound or 
+computed tomography of the neck or chest.Once a nodule is identified, the physician will seek to determine if it is malignant and/or associated with 
+thyroid dysfunction. Possible tests for this include the following:• Thyroid function tests (TSH, T4, T3). If levels are normal, then thyroid nodules are assumed to befunctioning normally.• Fine needle aspiration (FNA) biopsy. A thyroid function test cannot determine if a nodule is benign ormalignant. For this determination, a patient will need to receive an FNA biopsy, which is more sensitive 
+for distinguishing between benign and malignant thyroid nodules.3 In this procedure, the physician 
+inserts a very thin needle into the nodule and removes a small sample of cells. Often, the physician will 
+use ultrasound to guide the placement of the needle. Several samples may be taken; then, these samples 
+are sent to a laboratory and analyzed under a microscope by a pathologist, a specialist who generally can 
+determine by the appearance of cells whether they are benign or malignant.• Ultrasonography. This is an imaging technique that uses high-frequency sound waves to produce imagesthat can be examined on a screen or printed (Figure 5-2). This technology can also be used to distinguish 
+cysts on the thyroid from solid nodules and as a guide for performing an FNA biopsy (as noted earlier).Thyroid ultrasound uses high 
+frequency sound waves to 
+make a picture of the 
+thyroid glandFIGURE 5-2. Ultrasound of the thyroid gland.31  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 32 ----------------------------------------
+• Thyroid scan. For this procedure, radioactive material is administered by mouth or vein. The patient lieson a table while a nuclear scanner creates an image of the thyroid based on the absorption of radioactive 
+iodine by the thyroid. Nodules that produce excess thyroid hormone are detected by the scan because 
+they take up more of the radioactive material than normal thyroid tissue. Nonfunctioning thyroid nodules 
+do not appear on the scans. Nodules that produce excess thyroid hormone are nearly 100 percent benign; 
+those with some function or no function must be assessed further, as they are potentially malignant.TREATMENTIf a nodule is benign upon examination, further immediate treatment may not be required. Benign nodules 
+should be followed with repeat examinations 6 to 18 months following initial FNA biopsy. Patients with 
+growing nodules that are benign after repeat biopsy should be considered for continued monitoring or 
+intervention with surgery based on symptoms and clinical concern.19THYROID CANCER2 The incidence of 
+thyroid cancer is higher in females and varies in different parts of the world—with an incidence of 18.4 per 
+100,000 population among females in North America, to a low of 1.0 per 100,000 population in Middle Africa 
+(Figure 5-3).Thyroid carcinoma (cancer) is the most common malignancy of the endocrine system.16 Some types of thyroid cancer are generally curable, and the prognosis is good for patients 
+identified with early-stage disease.2MALESFEMALESNorthern America
+Australia and New Zealand6.318.415.3
+5.6Eastern Asia
+Southern Europe17.8
+5.416.5
+5.1Polynesia
+Western Europe23.3
+4.513.8
+4.2Western Asia
+South America14.0
+3.815.1
+3.7World
+Northern Europe10.1
+3.19.9
+3.0Central America
+Central and Eastern Europe11.2
+2.811.5
+2.8South-Eastern Asia6.4
+2.4Melanesia
+Caribbean
+Northern Africa12.4
+2.26.0
+1.75.8
+1.5Eastern Africa
+South-Central Asia3.2
+1.12.4
+0.89Southern Africa3.3
+0.78Middle Africa
+Western Africa1.0
+0.621.3
+0.46Micronesia12.330
+20
+10
+0
+10
+20
+30ASR (World) per 100,000FIGURE 5-3. World incidence rates of thyroid cancer by gender and region 2020 estimates.1632  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 33 ----------------------------------------
+SYMPTOMSThyroid cancer displays similar signs and symptoms as nodular thyroid disease. Additional signs of thyroid 
+cancer are enlarged lymph nodes in the neck.CAUSESFor many individuals, the causes of thyroid cancer are not known. However, thyroid cancer is more common 
+in people with a history of exposure of the thyroid gland to radiation.2 For example, during the 1940s and 
+1950s, some countries used potentially dangerous levels of radiation—including X-rays—to treat various 
+conditions, including acne, inflamed tonsils, and an enlarged thymus gland.2 Exposure to this radiation could 
+potentially cause thyroid cancer to develop in some exposed individuals many years later. Thyroid cancer 
+can also be caused by the absorption of radioactive iodine following a nuclear power plant accident, such as 
+the 1986 Chernobyl nuclear plant explosion because this radioactive iodine accumulates in the thyroid gland.  
+The risk of developing thyroid cancer after exposure to radioactive iodine is higher in children.17DIAGNOSISFor most patients, diagnosis of thyroid cancer is based on a fine needle biopsy (Figure 5-4) of a thyroid 
+nodule or by examination of a nodule removed by surgery. The cells obtained from a fine needle biopsy are 
+examined by a pathologist under a microscope and checked for cancer cells. About 95 percent of solitary 
+thyroid nodules are benign.FIGURE 5-4. A fine needle biopsy (also called a fine needle aspiration biopsy) is used to obtain cells from suspected thyroid cancer for analysis.33  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 34 ----------------------------------------
+OTHER TESTS FOR THYROID CANCER• Physical exams can be used to detect thyroid cancer. Thyroid nodules—which may be cancerous—may bepalpable, allowing for early detection and further analysis.• Blood tests (such as the Thyroglobulin [Tg] test), which indicate the presence of active thyroid tissue.Thyroid function tests (TSH, T4, T3) to determine if the gland is functioning normally.• Screening with iodine radioisotopes because the thyroid gland actively absorbs iodine. By measuringthe amount of radioactivity that is taken up by the thyroid gland (radioactive iodine uptake, or RAIU), 
+clinicians can determine whether the gland is functioning normally. Nonfunctioning thyroid tissue may 
+be a sign of thyroid cancer, although a fine needle biopsy is needed to confirm this diagnosis.TREATMENTThree approaches are commonly used for treating patients with thyroid cancer: surgery, thyroid-stimulating 
+hormone (TSH) suppression therapy, and radioiodine treatment.• Surgery. Well-differentiated thyroid cancers can be surgically excised (removed). Lymph node spread ofcancer should be assessed before and at the time of surgery, and any involved nodes should be removed. 
+Near-total thyroidectomy (removal of most of the thyroid gland) is preferred in most patients.2• TSH suppression therapy. Because thyroid cells are TSH-responsive, suppression of TSH withlevothyroxine (thyroid hormone) is an important part of cancer treatment. The goal of treatment is to 
+suppress TSH as much as possible without causing unnecessary side effects from excess thyroid hormone. 
+Consistent treatment with levothyroxine may thus help prevent the recurrence of thyroid cancer. Patients 
+treated with TSH suppression therapy will generally require ongoing monitoring. Evidence of successful 
+suppression of TSH is found by testing the patient’s TSH levels and/or free thyroxine (FT4) levels. 
+Normal levels of TSH are listed above; the reference range for FT4 is 0.7 to 1.8 ng/dL.• Radioiodine treatment. Even though thyroid cancer cells are cancerous, they may still absorb iodine.131I) can be used to kill them. Treatment with radioactive iodine 
+can be useful after thyroidectomy because substantial amounts of thyroid tissue may still remain, 
+particularly in the thyroid bed and surrounding the parathyroid glands.Because of this fact, radioactive iodine (234  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 35 ----------------------------------------
+THYROID EMERGENCIESThyroid storm, also called thyrotoxic crisis, is a rare but life-threatening exacerbation of hyperthyroidism—
+or excess levels of thyroid hormone.2 Myxedema crisis refers to a rare but life-threatening form of 
+hypothyroidism.2The symptoms of thyroid storm include fever, delirium, seizures, coma, vomiting, diarrhea, and jaundice. 
+The mortality rate due to cardiac failure, arrhythmia, or hyperthermia is as high as 30 percent, even with 
+treatment.The symptoms of myxedema crisis are impaired cognition, severe hypothermia, hypoventilation, 
+hypoglycemia, and hypotension. The mortality rate for this condition is also very high.CAUSESThyrotoxic crisis is usually precipitated by acute illness (e.g., stroke, infection, trauma, diabetic ketoacidosis), 
+surgery (especially on the thyroid), or radioiodine treatment of a patient with partially treated or untreated 
+hyperthyroidism.2 These conditions cause thyroid hormone levels to rise suddenly to dangerous levels. 
+Myxedema crisis is usually induced by an infection, acute illness (cardiac, respiratory, or neurologically 
+based), cold exposure, or drug use.2DIAGNOSISBecause both conditions are life-threatening emergencies, they must be recognized and treated solely on 
+clinical grounds since laboratory confirmation often cannot be obtained in a timely manner.Patients with thyroid storm typically appear markedly hypermetabolic, with high fevers, tachycardia, nausea, 
+vomiting, tremulousness, agitation, and psychosis. Late in the progression of the disease, some patients may 
+become stuporous or comatose with hypotension. Patients with myxedema crisis have impaired cognition, 
+ranging from confusion to a coma. Late in the disease, the patient may be hypothermic.TREATMENTManagement of thyroid storm requires intensive monitoring and supportive care, identification and 
+treatment of the precipitating cause, and measures that reduce thyroid hormone synthesis. Large doses 
+of propylthiouracil (600 mg loading dose and 200 to 300 mg every 6 hours) should be given orally or by 
+nasogastric tube or rectum. The drug’s inhibitory action on T4 to T3 conversion makes it the antithyroid 
+drug of choice for treating the patient with thyroid storm. Additional therapeutic measures include 
+glucocorticoids (e.g., dexamethasone, 2 mg every 6 hours), antibiotics, cooling, oxygen, and intravenous 
+fluids.2Management of myxedema crisis requires large doses of levothyroxine intravenously. An initial dose of 
+levothyroxine sodium (400 mcg) should be given intravenously, followed by 50 to 100 mcg daily. Additional 
+therapeutic measures may be required, depending on the disease complications, including applying warm 
+blankets, intubation, and treatment for infection.235  |  Learning Guide: Thyroid: Nodular Thyroid Disease, Thyroid Cancer, Thyroid Emergencies
+----------------------------------------PAGE 36 ----------------------------------------
+QUIZ QUESTIONSNODULAR THYROID DISEASE, THYROID CANCER, THYROID EMERGENCIES1.	 Name four signs and symptoms of thyroid cancer:2.	 Name the three treatments for thyroid cancer:3.	 Match the diagnosis technique for nodular thyroid disease with the correct definition:A  Routine medical1  If in normal ranges, the thyroid nodules are confirmed to be functioning normallyexaminationB  Thyroid function2  A procedure that examines a nuclear image of the thyroid after observing the thyroid absorption  
+of radioactive materialtestsC  FNA biopsy
+3  Used to determine if a nodule is benign or malignant by removing small samples of cells from  
+the nodule using a thin needleD  Ultrasonography
+4  Used to discover the presence of nodules by observing how the thyroid gland moves during swallowingE  Thyroid scan
+5  An imaging technique using high-frequency sound waves to make images of the thyroid gland,  
+and can be used to distinguish cysts on the thyroid from nodules36  |  Learning Guide: Thyroid: Thyroid Function in Pregnancy
+----------------------------------------PAGE 37 ----------------------------------------
+GLOSSARY, 
+APPENDIX, AND	
+REFERENCES37  |  Learning Guide: Thyroid
+37  |  Learning Guide: Thyroid
+----------------------------------------PAGE 38 ----------------------------------------
+GLOSSARYADENOMA | A benign tumor in which the tumor cells form glands or glandlike structures.ADRENAL GLANDS | A pair of endocrine organs that produce steroids such as sex hormones, 
+hormones concerned with metabolic functions, and epinephrine. They are located above the kidneys.BIOPSY | Process of removing tissue from patients for diagnostic examination.BRADYCARDIA | Slowness of the heartbeat, usually defined as a rate under 60 beats/minute.CALCITONIN | A peptide hormone produced by the parathyroid, thyroid, and thymus glands; it 
+increases the deposition of calcium and phosphate in bone and lowers the level of calcium in the blood.CARCINOMA | The most commonly occurring kind of cancer; any various types of benign or 
+malignant tumors derived from epithelial cells.CONGENITAL HYPOTHYROIDISM | Lack of thyroid secretion beginning at birth.DIABETES MELLITUS | A chronic metabolic disorder in which the use of carbohydrates is impaired.DYSGENESIS | Defective development.DYSPNEA | Shortness of breath, usually associated with disease of the heart or lungs.EDEMA | An accumulation of an excessive amount of fluid in cells or intercellular tissues.ENDOCRINE SYSTEM | A system of glands, each of which secretes a type of hormone directly into 
+the bloodstream to regulate the body.FIBROSIS | Formation of fibrous tissue as a reactive process, as opposed to formation of fibrous tissue 
+as a normal constituent of an organ or tissue.GOITER | Enlargement of the thyroid gland.GYNECOMASTIA | Excessive development of the male mammary glands.HASHIMOTO’S THYROIDITIS | Diffuse infiltration of the thyroid gland with lymphocytes, resulting in 
+diffuse goiter, progressive destruction of the parenchyma, often leading to hypothyroidism.HOMEOSTASIS | The state of equilibrium in the body with respect to various functions and to the 
+chemical compositions of the fluids and tissues.HORMONE | A chemical substance secreted into the body fluids by one cell or a group of cells that 
+exerts a physiological effect on other cells in the body.HUMAN CHORIONIC GONADOTROPIN (hCG) | A hormone released by the placenta during 
+pregnancy. The primary function of hCG is to ensure the female body does not initiate menstruation 
+once implantation of the fertilized egg has occurred. Most pregnancy tests detect this hormone in 
+either urine or serum to confirm pregnancy. hCG may also be administered to induce ovulation, 
+mimicking the luteinizing hormone (LH) surge.38  |  Learning Guide: Thyroid
+----------------------------------------PAGE 39 ----------------------------------------
+HYPERLIPIDEMIA | Elevated levels of lipids in the blood.HYPERTENSION | High blood pressure, arbitrarily defined as systolic blood pressure above  
+140 mmHg or diastolic blood pressure above 90 mmHg.HYPERTHYROIDISM | An abnormality of the thyroid gland in which secretion of thyroid hormone is 
+increased and no longer under the regulatory control of hypothalamic-pituitary centers.HYPOTHALAMUS | Endocrine tissue which releases gonadotropin-release hormone (GnRH) which, 
+in turn, regulates and controls hormones released by the pituitary gland. The hypothalamus is located 
+at the base of the brain.ISLETS OF LANGERHANS | The regions of the pancreas that contain insulin-secreting cells.MENORRHAGIA | Abnormally heavy and prolonged menstrual period at regular intervals.MYXEDEMA | Hypothyroidism characterized by relatively hard edema of subcutaneous tissue, with 
+increased content of mucins in the interstitial fluid; characterized by somnolence, slow mentation, 
+dryness and loss of hair, increased fluid in body cavities such as the pericardial sac, subnormal 
+temperature, hoarseness, muscle weakness, and slow return of a muscle to the neutral position after a 
+tendon jerk; usually caused by removal or loss of functioning thyroid tissue.OLIGOMENORRHEA | Abnormally infrequent or scanty menstrual flow.OVARY | The essential female reproductive organ that produces eggs and female sex hormones. There 
+are usually two ovaries.PARESTHESIA | A spontaneous abnormal, usually nonpainful sensation (e.g., burning, prickling).PITUITARY GLAND | A small endocrine organ that produces various hormones which directly affect 
+basic bodily functions and exert a controlling or regulating influence on other endocrine organs.POLYURIA | Excessive excretion of urine.RADIOACTIVE IODINE | The iodine radioisotopes131I, 
+125I, or 
+123I used as tracers in biology and medicine.STEROID | Compounds of 17-carbon 4-ring composition including various hormones.STEROID HORMONES | Any of the hormones with the characteristic ring structure of steroids, 
+including sex hormones, cortisone, and adrenocortical hormones. Steroid hormone names often end in 
+“-one” and “-ol” suffixes as in testosterone and estradiol.TACHYCARDIA | Rapid beating of the heart conventionally applied to rates over 100 beats per minute.TESTIS | The male reproductive gland in which sperm develop. Usually paired, the testis develops from 
+the genital ridges of the embryo and normally descends into the scrotum before or shortly after birth.THYROGLOBULIN (Tg) | A protein that contains precursors of thyroid hormone usually stored in the 
+colloid within the thyroid follicles.THYROIDECTOMY | Removal of the thyroid gland.39  |  Learning Guide: Thyroid
+----------------------------------------PAGE 40 ----------------------------------------
+THYROID GLAND | A gland located in the neck that converts thyroglobulin into the active hormone 
+form. The gland controls metabolic activity by secreting the thyroid hormones thyroxine (T4) and 
+triiodothyronine (T3), and by producing and releasing calcitonin.THYROIDITIS | Inflammation of the thyroid gland.THYROID PEROXIDASE (TPO) | An enzyme expressed mainly in the thyroid that liberates iodine for 
+addition onto tyrosine residues on thyroglobulin for the production of thyroxine (T4) or 
+triiodothyronine (T3), thyroid hormones.THYROID-STIMULATING HORMONE (TSH) | A peptide hormone synthesized and secreted by cells 
+in the anterior pituitary gland, which regulates the endocrine function of the thyroid gland.THYROID-STIMULATING IMMUNOGLOBULIN (TSI) | In Graves’ disease, the antibodies to TSH 
+receptors in the thyroid gland, causing hyperthyroidism.THYROID STORM | Thyrotoxic crisis.THYROTOXICOSIS | The overactive thyroid state produced by excessive quantities of endogenous or 
+exogenous thyroid hormone.THYROXINE (T4) | The main hormone produced by the thyroid gland, acting to increase metabolic 
+rate and regulating growth and development.THYROXINE-BINDING GLOBULIN (TBG) | Protein that binds with thyroid hormone in circulation.TRIIODOTHYRONINE (T3) | A thyroid hormone exerted by the thyroid gland which exerts the same 
+biologic effects as thyroxine but, on a molecular basis, is more potent, and its onset is more rapid.TROPIC HORMONES | Those hormones of the anterior lobe of the pituitary that affect the growth, 
+nutrition, or function of other endocrine glands.TSH RECEPTOR | A structural protein molecule on the cell surface or within the cytoplasm that binds 
+to a specific factor, such as a drug, hormone, antigen, or neurotransmitter.ULTRASONOGRAPHY | The location, measurement or delineation of deep structures by measuring 
+the reflection or transmission of high frequency or ultrasonic waves. Computer calculation of the 
+distance to the sound-reflecting or absorbing surface plus the known orientation of the sound beam 
+gives a two-dimensional image.ULTRASOUND | A technique for viewing internal organs using reflected high-frequency sound waves.40  |  Learning Guide: Thyroid
+----------------------------------------PAGE 41 ----------------------------------------
+APPENDIX: QUIZ ANSWERSSECTION 1 THE ENDOCRINE SYSTEM 
+AND THE THYROID GLANDSECTION 4 THYROID FUNCTION  
+IN PREGNANCY1.	 Hypothalamus, pituitary gland, thyroid 
+gland, parathyroid gland, adrenal glands, 
+islets of Langerhans or pancreas, sex glands 
+(testes or ovaries)1.	 A transient increase in hCG, a rise in TBG 
+during the first trimester, alterations in the 
+immune system, increased urinary iodine 
+excretion2.	 A. – 5 
+B. – 4 
+C. – 1 
+D. – 3 
+E. – 22.	 A. – Decrease 
+B. – Increase 
+C. – 0.3 percent, 0.7 percentSECTION 5 NODULAR THYROID 
+DISEASE, THYROID CANCER,  
+THYROID EMERGENCIES3.	 A. – 3 
+B. – 1 
+C. – 21.	 Lump or nodule in the thyroid,  
+hoarseness, pain in the neck/jaw/ear, 
+difficulty swallowing, tickle in the throat, 
+shortness of breathSECTION 2 HYPOTHYROIDISM1.	 Tiredness, weakness, dry skin, feeling cold, 
+hair loss, difficulty concentrating, poor 
+memory, constipation, weight gain, dyspnea, 
+hoarse voice, menorrhagia, paresthesia, 
+impaired hearing, depression2.	 Surgery, TSH suppression therapy, 
+radioiodine treatment3.	 A. – 4 
+B. – 1 
+C. – 3 
+D. – 5 
+E. – 22.	 A. – Above 
+B. – Below 
+C. – Free3.	 A. – False 
+B. – True 
+C. – True 
+D. – FalseSECTION 3 HYPERTHYROIDISM1.	 Tachycardia, tremor, goiter, warm and moist 
+skin, muscle weakness, lid retraction or lag, 
+gynecomastia2.	 A. – Low 
+B. – Above 
+C. – Normal3.	 A. – True 
+B. – False 
+C. – False41  |  Learning Guide: Thyroid
+----------------------------------------PAGE 42 ----------------------------------------
+REFERENCES1.	 Tortora GJ, Derrickson B. The endocrine system. In: Principles of Anatomy and Physiology. 15th ed.2.	 Jameson JL, Weetman AP. Disorders of the thyroid gland. In: Kasper DL, Braunwald E, et al., eds. 
+Harrison’s Principles of Internal Medicine. 17th ed. New York, NY: McGraw-Hill; 2008.3.	 Farwell AP, Braverman LE. Thyroid and antithyroid drugs. In: Hardman JG, Limbird LE, eds. Goodman and 
+Gilman’s The Pharmacological Basis of Therapeutics. 11th ed. New York, NY: McGraw-Hill; 2006.4.	 Bjøro T, et al. Prevalence of thyroid disease, thyroid dysfunction and thyroid peroxidase antibodies in a large, 
+unselected population. The Health Study of Nord-Trøndelag (HUNT). Euro J Endocrinol. 2000;143:639–647.5.	 Canaris GJ, et al. The Colorado Thyroid Disease Prevalence Study. Arch Intern Med. 2000;160:526–534.6.	 Carle A, et al. Epidemiology of subtypes of hypothyroidism in Denmark. Euro J Endocrin. 2006;154:21–28.7.	 American Association of Clinical Endocrinologists medical guidelines for clinical practice for the evaluation 
+and treatment of hyperthyroidism and hypothyroidism. Endocr Pract. 2002;8:457–469.8.	 Demers LM, et al. The National Academy of Clinical Biochemistry. Laboratory support for the diagnosis of 
+thyroid disease.9.	 Mayo Clinical. Mayo Medical Laboratories. Overview: T-Uptake, Serum. http://www.mayomedicallaboratories.
+com/test-catalog/print.php?unit_code=81792.10.	Stricker RT, et al. Evaluation of maternal thyroid function during pregnancy: The importance of using 
+gestational age-specific reference intervals. Euro J Endocrinol. 2007;157:509–514.11.	 Fantz CR, et al. Thyroid function during pregnancy. Clin Chem. 1999;45:2250–2258.12.	 Mandel SJ. Hypothyroidism and chronic autoimmune thyroiditis in the pregnant state: Maternal aspects. 
+Best Pract Res Clin Endocrinol Metab. 2004;18:213–224.13.	 Abalovich M, et al. Management of thyroid dysfunction during pregnancy and postpartum: An Endocrine 
+Society Clinical Practice Guideline. J Clin Metabol. 2007;8(suppl):S1–S47.14.	 Vaidya B, et al. Detection of thyroid dysfunction in early pregnancy: Universal screening or targeted high- 
+risk case finding? J Clin Endocrinol Metab. 2007;92:203–207.15.	 Negro R, et al. Levothyroxine treatment in euthyroid pregnant women with autoimmune thyroid disease: 
+Effects on obstetrical complications. J Clin Endocrinol Metab. 2006;91:2587–2591.16.	 World Health Organization International Agency for Research on Cancer (IARC). GLOBOCAN 2020: 
+Thyroid Fact Sheet. 2020; 2020 [cited 2021 May 20]. Available from: https://gco.iarc.fr/today/data/
+factsheets/cancers/32-Thyroid-fact-sheet.pdf.17.	 World Health Organization. (2011, March 11). “Use of potassium iodide for thyroid protection during nuclear 
+or radiological emergencies. Technical Brief.” Retrieved from https://www.who.int/publications/m/item/ 
+use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies#:~:text= 
+Uptake%20of%20radioactive%20iodine%20may,block%2C%20the%20thyroid%20from%20irradiation.18.	 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease 
+During Pregnancy and Postpartum. Thyroid. 2011; 211, 1–8.19.	 Revised American Thyroid Association Management Guidelines for Patients with Thyroid Nodules and 
+Differentiated Thyroid Cancer. Thyroid. 2009; 19 1167–1176.20.	Betz D, Fane K. Human Chorionic Gonadotropin. National Library of Medicine, National Institutes of Health.  
+August 30, 2020. Access August 2, 2021. https://www.ncbi.nlm.nih.gov/books/NBK532950/42  |  Learning Guide: Thyroid
+----------------------------------------PAGE 43 ----------------------------------------
+ACKNOWLEDGMENTOn behalf of Abbott, I would like to acknowledge the work of Dr. Todd Frieze, a practicing 
+thyroidologist, for his dedication to making this Learning Guide a useful resource for health 
+care professionals throughout the world. Dr. Frieze holds an appointment as Faculty for the 
+Internal Medicine Residency Program of Keesler Medical Center at Keesler Air Force Base, 
+Mississippi. He received his medical degree from the Emory University School of Medicine 
+in Atlanta, Georgia. Dr. Frieze is board certified in endocrinology, diabetes, and metabolism. 
+He is a member of several scientific societies, including the American Association of Clinical 
+Endocrinologists, the American Thyroid Association, the Academy of Clinical Thyroidology 
+and the Endocrine Society. He was elected as a Fellow  
+of the American College of Physicians and the American College of Endocrinology.  
+He holds the Endocrine Certification in Neck Ultrasound designation from the American 
+College of Endocrinology.43  |  Learning Guide: Thyroid
+----------------------------------------PAGE 44 ----------------------------------------
+CORELABORATORY.ABBOTT© 2021 Abbott. All rights reserved. All trademarks referenced are trademarks of either the Abbott group  
+of companies or their respective owners. ADD-132992-GBL-EN 06/21

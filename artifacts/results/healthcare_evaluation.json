@@ -1,0 +1,15 @@
+{
+  "artifact_status": "SIMULATED_DEMO_ONLY_NOT_CLINICALLY_VALIDATED",
+  "evaluation_examples": 8,
+  "rubric": {
+    "factual_consistency": "not assessed",
+    "medical_safety": "not assessed",
+    "citation_support": "not assessed",
+    "human_review": "pending"
+  },
+  "illustrative_summary": {
+    "answer_relevance": 0.78,
+    "faithfulness": 0.74
+  },
+  "warning": "Illustrative placeholder scores only. No clinician review or validated clinical evaluation was performed."
+}

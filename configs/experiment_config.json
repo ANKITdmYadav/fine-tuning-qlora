@@ -1,0 +1,33 @@
+{
+  "seed": 42,
+  "model_id": "Qwen/Qwen2.5-3B-Instruct",
+  "dataset_name": "MedQuAD",
+  "dataset_source": "https://github.com/abachaa/MedQuAD",
+  "dataset_license": "CC BY 4.0 (verify source terms and attribution before redistribution)",
+  "max_seq_length": 512,
+  "train_fraction": 0.8,
+  "validation_fraction": 0.1,
+  "test_fraction": 0.1,
+  "lora": {
+    "rank": 16,
+    "alpha": 32,
+    "dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ]
+  },
+  "qlora": {
+    "load_in_4bit": true,
+    "quant_type": "nf4",
+    "double_quant": true
+  },
+  "training": {
+    "learning_rate": 0.0002,
+    "epochs": 1,
+    "per_device_train_batch_size": 1,
+    "gradient_accumulation_steps": 8
+  }
+}

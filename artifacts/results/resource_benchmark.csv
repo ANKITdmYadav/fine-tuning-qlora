@@ -1,0 +1,4 @@
+method,training_time_minutes,peak_gpu_memory_gb,mean_inference_latency_ms,tokens_per_second,status
+baseline,,,185,,SIMULATED_NOT_MEASURED
+LoRA,42,10.8,172,,SIMULATED_NOT_MEASURED
+QLoRA,49,7.2,178,,SIMULATED_NOT_MEASURED

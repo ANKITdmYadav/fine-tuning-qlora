@@ -1,0 +1,1 @@
+https://huggingface.co/Qwen/Qwen2.5-3B-Instruct?utm_source=chatgpt.com

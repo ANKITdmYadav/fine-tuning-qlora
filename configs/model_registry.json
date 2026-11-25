@@ -1,0 +1,20 @@
+{
+  "primary_model": {
+    "model_id": "Qwen/Qwen2.5-3B-Instruct",
+    "purpose": "Primary comparison matching the current notebooks",
+    "license_note": "Qwen Research License; review terms before use",
+    "recommended_runtime": "Google Colab T4 16GB or larger GPU; 3B full precision inference and QLoRA training may exceed a 4GB GPU"
+  },
+  "small_gpu_fallback": {
+    "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+    "purpose": "Local smoke tests and low-memory experiments",
+    "license_note": "Apache-2.0 per Qwen model-family release table",
+    "recommended_runtime": "Lower-memory GPU or CPU inference; training still depends on sequence length and available memory"
+  },
+  "intermediate_model": {
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "purpose": "Intermediate SLM comparison",
+    "license_note": "Apache-2.0 per Qwen model-family release table",
+    "recommended_runtime": "GPU with more memory; validate fit before training"
+  }
+}
