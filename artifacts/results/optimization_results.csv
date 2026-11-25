@@ -1,4 +1,4 @@
-experiment_id,method,learning_rate,rank,batch_size,epochs,illustrative_score,status
+experiment_id,method,learning_rate,rank,batch_size,epochs,illustrative_score,
 EXP-DEMO-001,LoRA,2e-4,8,4,2,0.712,SIMULATED_NOT_RUN
 EXP-DEMO-002,LoRA,1e-4,16,4,2,0.731,SIMULATED_NOT_RUN
 EXP-DEMO-003,QLoRA,1e-4,16,4,2,0.724,SIMULATED_NOT_RUN
